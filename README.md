@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+I+am+Dogukan+👋;I+am+an+enthusiastic+Data+Engineer"></a>
 </p>-->
 
-<h3 align="center">Hi! I'm [Your Name]</h3>
+<h3 align="center">Hi! I'm [Alimou DIALLO]</h3>
 <h3 align="center">Data Engineer</h3>
 
 <h3 align="center">About Me :</h3>  
@@ -31,7 +31,7 @@
 
 <h3 align="center">Connect with me:</h3>  
 <div align="center">
-<a href="https://www.linkedin.com/in/[YourLinkedInProfile]" target="blank">
+<a href="https://www.linkedin.com/in/[linkedin.com/in/alimou-diallo-202081120]" target="blank">
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="height: 3rem"/>
 </a>
 
@@ -39,11 +39,11 @@
 <img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" style="height: 3rem; background-color:white"/>
 </a>
 
-<a href="mailto:[YourEmail]" target="blank">
+<a href="mailto:[alimousantou@gmail.com]" target="blank">
 <img src="img/mail.png" style="height: 3rem"/>
 </a>
 
-<a href="[YourWebsite]" target="blank">
+<a href="[santoudllo.github.io/mon_site/]" target="blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Eo_circle_blue_letter-d.svg" style="height: 3rem"/>
 </a>
 
