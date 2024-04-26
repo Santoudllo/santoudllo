@@ -35,21 +35,14 @@
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="height: 3rem"/>
 </a>
 
-<a href="[YourMediumProfile]" target="blank">
-<img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" style="height: 3rem; background-color:white"/>
-</a>
+
 
 <a href="mailto:alimousantou@gmail.com" target="blank">
 <img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-512.png" style="height: 3rem"/>
 </a>
 
-<a href="[YourWebsite]" target="blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Eo_circle_blue_letter-d.svg" style="height: 3rem"/>
-</a>
 
-<a href="[YourUpworkProfile]" target="blank">
-<img src="https://www.svgrepo.com/show/331630/upwork.svg" style="height: 3rem"/>
-</a>
+
 
 </div>
 
