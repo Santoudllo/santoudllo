@@ -7,7 +7,7 @@
 <h3 align="center">Alimou DIALLO</h3>
 <h3 align="center">Data Engineer</h3>
 
-<h3 align="center">À propos de moi:</h3>  
+<h3 align="center">À propos de moi </h3>  
  <p>
 <div align="center">
 <br>  Développeur de projets d'ingénierie de données end-to-end, je suis dévoué à l'apprentissage continu et à l'application des meilleures pratiques pour garantir le succès de chaque projet.
