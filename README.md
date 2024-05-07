@@ -27,7 +27,7 @@
 </div>
  </p>
 
-📫Comment me joindre ? Je réponds par mail alimousantou@gmail.com
+📫Comment me joindre ? Je réponds par mail : alimousantou@gmail.com
 
 <!-- Socials --> 
 
