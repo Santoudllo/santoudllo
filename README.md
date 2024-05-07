@@ -27,6 +27,8 @@
 </div>
  </p>
 
+📫Comment me joindre ? Je réponds par mail alimousantou@gmail.com
+
 <!-- Socials --> 
 
 <h3 align="center">Connect with me:</h3>  
@@ -50,15 +52,16 @@
 
 <h3 align="Center">Tech Stack:</h3>  
 <p align="center">
-<a href="https://www.python.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="python"  style="height: 3rem"/> </a>
-<a href="https://tr.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://img.icons8.com/external-bearicons-blue-bearicons/512/external-SQL-file-extension-bearicons-blue-bearicons.png" alt="sql"  style="height: 3rem"/> </a>
-<a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/512/amazon-web-services.png" alt="aws"  style="height: 3rem"/> </a>
-<a href="https://cloud.google.com/" target="_blank"> <img src="https://www.sophos.com/sites/default/files/2022-02/googlecloud.png" alt="metabase"  style="height: 3rem"/> </a>
-<a href="https://spark.apache.org/" target="_blank"> <img src="https://ignos.blog/wp-content/uploads/2022/06/apachesparklogo-e1655475818894.png" alt="spark"  style="height: 3rem"/> </a>
-<a href="https://www.snowflake.com/en/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/snowflake_logo_icon_167979.png" alt="snowflake"  style="height: 3rem"/> </a>
-<a href="https://kafka.apache.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg" alt="kafka"  style="height: 3rem"/> </a>
-<a href="https://airflow.apache.org/" target="_blank"> <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="airflow"  style="height: 3rem"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/512/docker.png" alt="docker"  style="height: 3rem"/> </a>
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons
-
-
+<a href="https://jupyter.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="70" height="70"/></a>&nbsp;
+<a href="https://github.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="70" height="70"/></a>&nbsp;
+<a href="https://www.canva.com/tools/logo-maker-q1/?clickId=w671MsReixyIUGuwFGT2H2vQUkDz3iWZAWLTVc0&utm_medium=affiliate&utm_source=MaxBounty.com%20ULC_10813&irgwc=1" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="70" height="70"/></a>&nbsp;
+<a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="Apache Spark" alt=" Apache Spark" width="70" height="70"/></a>&nbsp;
+<a href="https://www.anaconda.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="70" height="70"/></a>&nbsp;
+<a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQL lite" alt="SQL lite" width="70" height="70"/></a>&nbsp;
+<a href="https://www.kaggle.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="70" height="70"/></a>&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vs code" alt="Vscode" width="70" height="70"/></a>&nbsp;
+<a href="https://www.snowflake.com/en/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/snowflake_logo_icon_167979.png" title="Snowflake" alt="Snowflake" width="70" height="70"/></a>&nbsp;
+<a href="https://airflow.apache.org/" target="_blank"><img src="https://www.svgrepo.com/show/353380/airflow.svg" title="Airflow" alt="Airflow" width="70" height="70"/></a>&nbsp;
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/512/docker.png" title="Docker" alt="Docker" width="70" height="70"/></a>&nbsp;
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-postgresql-business-and-finance-justicon-flat-justicon.png" title="PostgreSQL" alt="PostgreSQL" width="70" height="70"/></a>&nbsp;
+</p>
